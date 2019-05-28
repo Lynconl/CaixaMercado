@@ -1,0 +1,11 @@
+C:\Users\lynco\OneDrive\Área de Trabalho\CaixaMercado\CaixaMercado\bin\Debug\CaixaMercado.exe.config
+C:\Users\lynco\OneDrive\Área de Trabalho\CaixaMercado\CaixaMercado\bin\Debug\CaixaMercado.exe
+C:\Users\lynco\OneDrive\Área de Trabalho\CaixaMercado\CaixaMercado\bin\Debug\CaixaMercado.pdb
+C:\Users\lynco\OneDrive\Área de Trabalho\CaixaMercado\CaixaMercado\obj\Debug\CaixaMercado.csprojAssemblyReference.cache
+C:\Users\lynco\OneDrive\Área de Trabalho\CaixaMercado\CaixaMercado\obj\Debug\CaixaMercado.FormCaixa.resources
+C:\Users\lynco\OneDrive\Área de Trabalho\CaixaMercado\CaixaMercado\obj\Debug\CaixaMercado.Properties.Resources.resources
+C:\Users\lynco\OneDrive\Área de Trabalho\CaixaMercado\CaixaMercado\obj\Debug\CaixaMercado.csproj.GenerateResource.cache
+C:\Users\lynco\OneDrive\Área de Trabalho\CaixaMercado\CaixaMercado\obj\Debug\CaixaMercado.csproj.CoreCompileInputs.cache
+C:\Users\lynco\OneDrive\Área de Trabalho\CaixaMercado\CaixaMercado\obj\Debug\CaixaMercado.exe
+C:\Users\lynco\OneDrive\Área de Trabalho\CaixaMercado\CaixaMercado\obj\Debug\CaixaMercado.pdb
+C:\Users\lynco\OneDrive\Área de Trabalho\CaixaMercado\CaixaMercado\obj\Debug\CaixaMercado.FormCadastro.resources
